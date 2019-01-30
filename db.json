@@ -5,7 +5,7 @@
     { "id": 3, "Title": "movie 3" }
   ],
   "movies": [
-    { "id": 1, "Title": "some comment", "Year": "2008", "Runtime": "125min", "Genre" : "Biography, Crime, Drama"", "Director": "Sidney Lumet"" },
-    { "id": 2, "Title": "some comment", "Year": "1991", "Runtime": "125min", "Genre" : "Biography, Crime, Drama"", "Director": "Sidney Lumet"" },
+    { "id": 1, "Title": "some comment", "Year": "2008", "Runtime": "125min", "Genre" : "Biography, Crime, Drama", "Director": "Sidney Lumet" },
+    { "id": 2, "Title": "some comment", "Year": "1991", "Runtime": "125min", "Genre" : "Biography, Crime, Drama", "Director": "Sidney Lumet" },
   ]
 }
